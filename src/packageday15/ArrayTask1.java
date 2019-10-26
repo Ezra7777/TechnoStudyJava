@@ -21,6 +21,8 @@ public class ArrayTask1 {
             System.out.println(arr[i]);
 
         }
+
+        // some changes
     }
 
 
