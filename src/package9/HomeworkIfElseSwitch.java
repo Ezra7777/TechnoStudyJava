@@ -24,7 +24,7 @@ public class HomeworkIfElseSwitch {
 
     //options:
     // 1.HELLO TECHNO
-    //2.Compile TIME ERROR
+    //2.Compile TIME ERROR//true
     //3.Run time error
     //4.Bye
 
@@ -47,7 +47,7 @@ public class HomeworkIfElseSwitch {
     //1.Hello Techno
     //2.Welcome
     //3.Bye
-    //4.compile time error
+    //4.compile time error//true
 
 
     //  public class Test{
@@ -63,7 +63,7 @@ public class HomeworkIfElseSwitch {
     //1,10
     //2.Bye
     //3.No output
-    //4.Compile time error
+    //4.Compile time error //true
     //
     //     public class Test {
     //   public static void main (String [] args )
@@ -90,7 +90,7 @@ public class HomeworkIfElseSwitch {
     //output:
     //1.Hello Techno
     //2.Compile time error
-    //3.Welcome
+    //3.Welcome //true
     //4.No output
 
     //   public class Test
@@ -105,7 +105,7 @@ public class HomeworkIfElseSwitch {
     // options:
     //1.Run time error
     //2.Compile time error
-    //3.no output
+    //3.no output //true
     //4.runtime exception
     //
     //       class test {
@@ -129,7 +129,7 @@ public class HomeworkIfElseSwitch {
     //1.compile time error
     //2.Lets Work
     //3.Run time error
-    //4.Today is Fun
+    //4.Today is Fun //true
     //  }
 
 
@@ -147,7 +147,7 @@ public class HomeworkIfElseSwitch {
     //}
     //
     //options 1.Techno
-    //2.Compile time error
+    //2.Compile time error //true
     //3.Hello
     //No output
     //
@@ -166,7 +166,7 @@ public class HomeworkIfElseSwitch {
     //}
     //output:
     //1.Compile time error
-    //2. TECHNO
+    //2. TECHNO //true
     //3.HELLO
     //4.no output
 
@@ -213,6 +213,6 @@ public class HomeworkIfElseSwitch {
         //1.Compile time error
          //2.GFG
           //3.No output
-          //4.TechnoStudy
+          //4.TechnoStudy //true
     //]
 

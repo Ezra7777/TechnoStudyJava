@@ -2,7 +2,7 @@ package PackageDay16;
 
 import org.w3c.dom.ls.LSOutput;
 
-public class NestedLoopEx1 {
+public class NestedLoopTask1 {
     public static void main(String[] args) {
 
         //task

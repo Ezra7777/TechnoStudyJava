@@ -28,15 +28,15 @@ public class HomeworkPackages {
 
 
     //Which fallowing is/are advantages of packages?
-    //A.Packages avoid name clashes
+    //A.Packages a void name classes
     //B.Classes,even though they are visible outside their packages,can have fields to packages only
-    //C.We can have hidden class that are used by the packages,but not visibleoutside.
+    //C.We can have hidden class that are used by the packages,but not visible outside.
     //D.All of the above
 
 
 
     //Answer:
-
+     // d
 
 
 

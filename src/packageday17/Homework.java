@@ -1,9 +1,9 @@
-package PackageDay16;
+package packageday17;
 
 
 import javax.swing.*;
 
-public class Day16Homework {
+public class Homework {
     public static void main(String[] args) {
 
 //         walmart	costco	corrado's	AVG
