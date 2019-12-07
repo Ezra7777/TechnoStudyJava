@@ -1,0 +1,29 @@
+package Day22;
+
+import java.util.ArrayList;
+
+public class ArrayTask7 {
+    public static void main(String[] args) {
+
+        // Write a Java program to convert an array to ArrayList
+
+            String[] names = {"yasin", "kemal", "suna", "nalan"};
+
+            //1.way
+//        List<String> nameList = Arrays.asList(names);
+//        System.out.println(nameList);
+//        nameList.remove("yasin");
+//        System.out.println(nameList);
+
+            //2.way
+            ArrayList<String> nameList = new ArrayList<>();
+            System.out.println(nameList);
+            for(String s : names){
+                nameList.add(s);
+            }
+            System.out.println(nameList);
+        }
+    }
+
+
+

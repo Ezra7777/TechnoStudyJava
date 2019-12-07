@@ -59,8 +59,6 @@ public class BasicProblem1 {
 
 
 
-
-
       }
 }
 
@@ -78,7 +76,7 @@ public class BasicProblem1 {
 
 
 
-                            //  Hint : move code in main ,do not forgoet about {and }
+                            //  Hint : move code in main ,do not forgot about {and }
                             //   Output of your program should be like this :
                             //  Problem
                             //   Basic Problem

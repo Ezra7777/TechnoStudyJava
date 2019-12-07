@@ -11,8 +11,8 @@ public class JvaClass2 {
 
 
 
-        //Tas : use separete variabla for each word print it on line
-        //using concatenation
+        //Task : use separete variabla for each word print it on line
+        //using concatenatian
         // ex : " What " ,"is " , "your ", " name " , " ? " = > " What is your name ? "
 
          // task 2: continue task 1 ,but print each word in new line using only

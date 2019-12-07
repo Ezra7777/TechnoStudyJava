@@ -16,14 +16,14 @@ public class officehours2 {
 
 
 
-    // String  tag= "i";
-    // String  word= "water";
+     String  tag= "i";
+     String  word= "water";
 
 
-   //  <i> +water < /i>
+         //<i> +water < /i>
 
 
-       // System.out.println("< "+ tag +" > "+ word + "<" + " /" + tag + " >");
+        System.out.println("< "+ tag +" > "+ word + "<" + " /" + tag + " >");
 
 
 

@@ -2,6 +2,7 @@ package Day24_MultipleAttributes;
 
 public class Person {
 
+    public String school;
     String firstName="Techno";
     String lastName ="Study";
     int age =6;
